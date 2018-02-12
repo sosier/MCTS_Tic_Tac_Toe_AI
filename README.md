@@ -2,7 +2,7 @@
 #### Sean Osier
 
 
-#### Summary
+### Summary
 In Early 2016, wanting to learn more about Monte Carlo Tree Search (MCTS), a major part of the original [AlphaGo algorithm / paper](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) that had just came out, I ported a [Python 2 implementation I found online](http://mcts.ai/code/python.html) over to Python 3 (`mcts.py`).
 
 I also created my own implementation (`mcts_gt.py`) to try to improve upon some of the drawbacks I observed in the original.
@@ -11,7 +11,7 @@ For both of these cases, I used Tic-Tac-Toe as my simple, test-case game.
 
 Finally, I also explored (`ML_Tic-Tac-Toe_AI_Experiments.ipynb`) building a Tic-Tac-Toe AI using machine learning (a simple regression tree) to pick moves, basically the same idea as the "policy network" from the AlphaGo paper.
 
-#### How to Run
+### How to Run
 
 **NOTE: Requires Python 3**
 
