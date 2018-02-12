@@ -1,0 +1,3 @@
+# Ignore folders starting with "!"
+\!*/
+.ipynb_checkpoints/
